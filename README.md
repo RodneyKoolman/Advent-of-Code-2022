@@ -6,7 +6,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 ## Do Advent of Code yourself
 
-1. Go to adventofcode.com, start with day 1
+1. Go to adventofcode.com and start with day 1
 2. Use your favorite programming language to solve the puzzles
 
 ## Author
